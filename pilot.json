@@ -1,0 +1,360 @@
+{
+  "series": [
+    {
+      "id": "miya-g3-math",
+      "name": "Miya 三年级上 · 数学",
+      "cover": "miya-g3-math-m01-p01",
+      "keys": [
+        "miya-g3-math-m01-p01",
+        "miya-g3-math-m02-p01",
+        "miya-g3-math-m03-p01",
+        "miya-g3-math-m04-p01",
+        "miya-g3-math-m05-p01",
+        "miya-g3-math-m06-p01",
+        "miya-g3-math-m07-p01",
+        "miya-g3-math-m08-p01",
+        "miya-g3-math-m09-p01",
+        "miya-g3-math-m10-p01"
+      ]
+    },
+    {
+      "id": "miya-g3-chinese",
+      "name": "Miya 三年级上 · 语文",
+      "cover": "miya-g3-chinese-c01-p01",
+      "keys": [
+        "miya-g3-chinese-c01-p01",
+        "miya-g3-chinese-c02-p01",
+        "miya-g3-chinese-c03-p01",
+        "miya-g3-chinese-c04-p01",
+        "miya-g3-chinese-c05-p01",
+        "miya-g3-chinese-c06-p01",
+        "miya-g3-chinese-c07-p01",
+        "miya-g3-chinese-c08-p01",
+        "miya-g3-chinese-c09-p01",
+        "miya-g3-chinese-c10-p01"
+      ]
+    },
+    {
+      "id": "miya-g3-english",
+      "name": "Miya 三年级上 · 英语",
+      "cover": "miya-g3-english-e01-p01",
+      "keys": [
+        "miya-g3-english-e01-p01",
+        "miya-g3-english-e02-p01",
+        "miya-g3-english-e03-p01",
+        "miya-g3-english-e04-p01",
+        "miya-g3-english-e05-p01",
+        "miya-g3-english-e06-p01",
+        "miya-g3-english-e07-p01",
+        "miya-g3-english-e08-p01",
+        "miya-g3-english-e09-p01",
+        "miya-g3-english-e10-p01"
+      ]
+    },
+    {
+      "id": "miya-english-vocab",
+      "name": "Miya · 英语词汇探险",
+      "cover": "miya-english-vocab-e101-p01",
+      "keys": [
+        "miya-english-vocab-e101-p01",
+        "miya-english-vocab-e102-p01",
+        "miya-english-vocab-e103-p01",
+        "miya-english-vocab-e104-p01",
+        "miya-english-vocab-e105-p01",
+        "miya-english-vocab-e106-p01",
+        "miya-english-vocab-e107-p01",
+        "miya-english-vocab-e108-p01",
+        "miya-english-vocab-e109-p01",
+        "miya-english-vocab-e110-p01"
+      ]
+    },
+    {
+      "id": "miya-english-g3-s2",
+      "name": "Miya · 三年级下英语",
+      "cover": "miya-english-g3-s2-e201-p01",
+      "keys": [
+        "miya-english-g3-s2-e201-p01",
+        "miya-english-g3-s2-e202-p01",
+        "miya-english-g3-s2-e203-p01",
+        "miya-english-g3-s2-e204-p01",
+        "miya-english-g3-s2-e205-p01",
+        "miya-english-g3-s2-e206-p01",
+        "miya-english-g3-s2-e207-p01",
+        "miya-english-g3-s2-e208-p01",
+        "miya-english-g3-s2-e209-p01",
+        "miya-english-g3-s2-e210-p01"
+      ]
+    },
+    {
+      "id": "miya-math-enrichment",
+      "name": "Miya · 数学题型探险",
+      "cover": "miya-math-enrichment-m101-p01",
+      "keys": [
+        "miya-math-enrichment-m101-p01",
+        "miya-math-enrichment-m102-p01",
+        "miya-math-enrichment-m103-p01",
+        "miya-math-enrichment-m104-p01",
+        "miya-math-enrichment-m105-p01",
+        "miya-math-enrichment-m106-p01",
+        "miya-math-enrichment-m107-p01",
+        "miya-math-enrichment-m108-p01",
+        "miya-math-enrichment-m109-p01",
+        "miya-math-enrichment-m110-p01"
+      ]
+    },
+    {
+      "id": "miya-math-g3-s2",
+      "name": "Miya · 三年级下数学",
+      "cover": "miya-math-g3-s2-m201-p01",
+      "keys": [
+        "miya-math-g3-s2-m201-p01",
+        "miya-math-g3-s2-m202-p01",
+        "miya-math-g3-s2-m203-p01",
+        "miya-math-g3-s2-m204-p01",
+        "miya-math-g3-s2-m205-p01",
+        "miya-math-g3-s2-m206-p01",
+        "miya-math-g3-s2-m207-p01",
+        "miya-math-g3-s2-m208-p01",
+        "miya-math-g3-s2-m209-p01",
+        "miya-math-g3-s2-m210-p01"
+      ]
+    },
+    {
+      "id": "miya-g5-midterm",
+      "name": "Miya 五年级上 · 期中复习",
+      "cover": "miya-g5-midterm-01-p01",
+      "keys": [
+        "miya-g5-midterm-01-p01",
+        "miya-g5-midterm-02-p01",
+        "miya-g5-midterm-03-p01",
+        "miya-g5-midterm-04-p01"
+      ]
+    },
+    {
+      "id": "candy-remainder",
+      "name": "糖果分一分 · 有余数的除法",
+      "cover": "candy-remainder-01-p01",
+      "keys": [
+        "candy-remainder-01-p01",
+        "candy-remainder-01-p02",
+        "candy-remainder-01-p03",
+        "candy-remainder-01-p04",
+        "candy-remainder-01-p05"
+      ]
+    },
+    {
+      "id": "eric-math",
+      "name": "Eric 的魔法赛车学院 · 数学",
+      "cover": "eric-math-001-p01",
+      "keys": [
+        "eric-math-001-p01",
+        "eric-math-001-p02",
+        "eric-math-001-p03",
+        "eric-math-001-p04",
+        "eric-math-001-p05",
+        "eric-math-001-p06",
+        "eric-math-001-p07",
+        "eric-math-001-p08",
+        "eric-math-001-p09",
+        "eric-math-001-p10"
+      ]
+    },
+    {
+      "id": "eric-physics",
+      "name": "Eric 的魔法赛车学院 · 物理",
+      "cover": "eric-physics-001-p01",
+      "keys": [
+        "eric-physics-001-p01",
+        "eric-physics-001-p02",
+        "eric-physics-001-p03",
+        "eric-physics-001-p04",
+        "eric-physics-001-p05",
+        "eric-physics-001-p06",
+        "eric-physics-001-p07",
+        "eric-physics-001-p08",
+        "eric-physics-001-p09",
+        "eric-physics-001-p10"
+      ]
+    },
+    {
+      "id": "eric-chemistry",
+      "name": "Eric 的魔法赛车学院 · 化学",
+      "cover": "eric-chemistry-001-p01",
+      "keys": [
+        "eric-chemistry-001-p01",
+        "eric-chemistry-001-p02",
+        "eric-chemistry-001-p03",
+        "eric-chemistry-001-p04",
+        "eric-chemistry-001-p05",
+        "eric-chemistry-001-p06",
+        "eric-chemistry-001-p07",
+        "eric-chemistry-001-p08",
+        "eric-chemistry-001-p09",
+        "eric-chemistry-001-p10"
+      ]
+    },
+    {
+      "id": "english-primary",
+      "name": "用英语讲好中国故事 · 小学",
+      "cover": "english-primary-001-p01",
+      "keys": [
+        "english-primary-001-p01",
+        "english-primary-001-p02",
+        "english-primary-002-p01",
+        "english-primary-002-p02",
+        "english-primary-003-p01",
+        "english-primary-003-p02",
+        "english-primary-004-p01",
+        "english-primary-004-p02",
+        "english-primary-005-p01",
+        "english-primary-005-p02"
+      ]
+    },
+    {
+      "id": "english-senior",
+      "name": "用英语讲好中国故事 · 中学",
+      "cover": "english-senior-001-p01",
+      "keys": [
+        "english-senior-001-p01",
+        "english-senior-001-p02",
+        "english-senior-002-p01",
+        "english-senior-002-p02",
+        "english-senior-003-p01",
+        "english-senior-003-p02",
+        "english-senior-004-p01",
+        "english-senior-004-p02",
+        "english-senior-005-p01",
+        "english-senior-005-p02"
+      ]
+    },
+    {
+      "id": "k12-math",
+      "name": "初中知识点 · 数学",
+      "cover": "cover-k12-math",
+      "keys": [
+        "cover-k12-math"
+      ],
+      "coverOnly": true
+    },
+    {
+      "id": "k12-chem",
+      "name": "初中知识点 · 化学",
+      "cover": "cover-k12-chem",
+      "keys": [
+        "cover-k12-chem"
+      ],
+      "coverOnly": true
+    },
+    {
+      "id": "materials",
+      "name": "材料简史",
+      "cover": "cover-materials",
+      "keys": [
+        "cover-materials"
+      ],
+      "coverOnly": true
+    },
+    {
+      "id": "disease-history",
+      "name": "疾病简史",
+      "cover": "cover-disease-history",
+      "keys": [
+        "cover-disease-history"
+      ],
+      "coverOnly": true
+    },
+    {
+      "id": "psychology",
+      "name": "心理学效应",
+      "cover": "psychology-47-p01",
+      "keys": [
+        "psychology-47-p01",
+        "psychology-47-p02",
+        "psychology-47-p03",
+        "psychology-47-p04",
+        "psychology-47-p05",
+        "psychology-47-p06",
+        "psychology-47-p07",
+        "psychology-47-p08",
+        "psychology-47-p09",
+        "psychology-47-p10"
+      ]
+    },
+    {
+      "id": "science-comics",
+      "name": "漫画科普系列",
+      "cover": "science-comics-01-p01",
+      "keys": [
+        "science-comics-01-p01",
+        "science-comics-01-p02",
+        "science-comics-01-p03",
+        "science-comics-01-p04",
+        "science-comics-01-p05",
+        "science-comics-01-p06",
+        "science-comics-01-p07",
+        "science-comics-01-p08",
+        "science-comics-01-p09",
+        "science-comics-01-p10"
+      ]
+    },
+    {
+      "id": "philosophy",
+      "name": "哲学基础概念",
+      "cover": "cover-philosophy",
+      "keys": [
+        "cover-philosophy"
+      ],
+      "coverOnly": true
+    },
+    {
+      "id": "tengwang",
+      "name": "滕王阁序典故全解",
+      "cover": "tengwang-01-p01",
+      "keys": [
+        "tengwang-01-p01",
+        "tengwang-01-p02",
+        "tengwang-01-p04",
+        "tengwang-01-p05",
+        "tengwang-01-p06",
+        "tengwang-01-p07",
+        "tengwang-01-p08",
+        "tengwang-01-p09",
+        "tengwang-01-p10",
+        "tengwang-01-p11"
+      ]
+    },
+    {
+      "id": "mental-health",
+      "name": "青少年心理健康",
+      "cover": "mental-health-01-p01",
+      "keys": [
+        "mental-health-01-p01",
+        "mental-health-01-p02",
+        "mental-health-01-p03",
+        "mental-health-01-p04",
+        "mental-health-01-p05",
+        "mental-health-01-p06",
+        "mental-health-01-p07",
+        "mental-health-01-p08",
+        "mental-health-01-p09"
+      ]
+    },
+    {
+      "id": "periodic-table",
+      "name": "元素周期表",
+      "cover": "periodic-table-36-p01",
+      "keys": [
+        "periodic-table-36-p01",
+        "periodic-table-36-p02",
+        "periodic-table-36-p03",
+        "periodic-table-36-p04",
+        "periodic-table-36-p05",
+        "periodic-table-36-p06",
+        "periodic-table-36-p07",
+        "periodic-table-36-p08",
+        "periodic-table-36-p09",
+        "periodic-table-36-p10"
+      ]
+    }
+  ]
+}

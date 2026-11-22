@@ -8449,6 +8449,593 @@
         }
       ],
       "cover": "periodic-table-01-p01"
+    },
+    {
+      "id": "k12-math-cards",
+      "group": "middle",
+      "title": "初中知识点 · 数学图解",
+      "chapters": [
+        {
+          "id": "k12-math-cards-rational-number",
+          "title": "有理数与数轴",
+          "images": [
+            "k12-math-cards-rational-number-p01"
+          ],
+          "grade": "g7"
+        },
+        {
+          "id": "k12-math-cards-rational-number-variant",
+          "title": "有理数与数轴（另一张图解）",
+          "images": [
+            "k12-math-cards-rational-number-variant-p01"
+          ],
+          "grade": "g7"
+        },
+        {
+          "id": "k12-math-cards-polynomials-factorization",
+          "title": "整式与因式分解",
+          "images": [
+            "k12-math-cards-polynomials-factorization-p01"
+          ]
+        },
+        {
+          "id": "k12-math-cards-linear-equation",
+          "title": "一元一次方程",
+          "images": [
+            "k12-math-cards-linear-equation-p01"
+          ],
+          "grade": "g7"
+        },
+        {
+          "id": "k12-math-cards-linear-equation-variant",
+          "title": "一元一次方程（另一张图解）",
+          "images": [
+            "k12-math-cards-linear-equation-variant-p01"
+          ],
+          "grade": "g7"
+        },
+        {
+          "id": "k12-math-cards-two-variable-linear-equation",
+          "title": "二元一次方程",
+          "images": [
+            "k12-math-cards-two-variable-linear-equation-p01"
+          ],
+          "grade": "g7"
+        },
+        {
+          "id": "k12-math-cards-linear-system",
+          "title": "二元一次方程组",
+          "images": [
+            "k12-math-cards-linear-system-p01"
+          ],
+          "grade": "g7"
+        },
+        {
+          "id": "k12-math-cards-linear-system-variant",
+          "title": "二元一次方程组（另一张图解）",
+          "images": [
+            "k12-math-cards-linear-system-variant-p01"
+          ],
+          "grade": "g7"
+        },
+        {
+          "id": "k12-math-cards-inequalities",
+          "title": "不等式与不等式组",
+          "images": [
+            "k12-math-cards-inequalities-p01"
+          ],
+          "grade": "g7"
+        },
+        {
+          "id": "k12-math-cards-real-numbers-radicals",
+          "title": "实数与二次根式",
+          "images": [
+            "k12-math-cards-real-numbers-radicals-p01"
+          ]
+        },
+        {
+          "id": "k12-math-cards-quadratic-radicals",
+          "title": "二次根式",
+          "images": [
+            "k12-math-cards-quadratic-radicals-p01"
+          ],
+          "grade": "g8"
+        },
+        {
+          "id": "k12-math-cards-rational-expressions-equations",
+          "title": "分式与分式方程",
+          "images": [
+            "k12-math-cards-rational-expressions-equations-p01"
+          ]
+        },
+        {
+          "id": "k12-math-cards-quadratic-equation",
+          "title": "一元二次方程",
+          "images": [
+            "k12-math-cards-quadratic-equation-p01"
+          ],
+          "grade": "g9"
+        },
+        {
+          "id": "k12-math-cards-coordinate-plane",
+          "title": "平面直角坐标系",
+          "images": [
+            "k12-math-cards-coordinate-plane-p01"
+          ],
+          "grade": "g7"
+        },
+        {
+          "id": "k12-math-cards-function-mapping",
+          "title": "函数对应关系",
+          "images": [
+            "k12-math-cards-function-mapping-p01"
+          ],
+          "note": "函数的每个自变量值有且只有一个对应的函数值。一个输入对应两个不同的输出才构成反例，图中的对应关系示例有误。"
+        },
+        {
+          "id": "k12-math-cards-linear-relationship",
+          "title": "一次关系",
+          "images": [
+            "k12-math-cards-linear-relationship-p01"
+          ],
+          "note": "在 y=kx+b 的图像中，直线与 y 轴交于 (0,b)。平移后的平行直线斜率相同，图中相关标注和示意线有误。"
+        },
+        {
+          "id": "k12-math-cards-linear-function",
+          "title": "一次函数",
+          "images": [
+            "k12-math-cards-linear-function-p01"
+          ],
+          "grade": "g8"
+        },
+        {
+          "id": "k12-math-cards-inverse-proportion",
+          "title": "反比例函数",
+          "images": [
+            "k12-math-cards-inverse-proportion-p01"
+          ],
+          "grade": "g9",
+          "note": "反比例函数 y=k/x（k≠0）的图像在 k>0 时位于第一、三象限，在 k<0 时位于第二、四象限。图中部分曲线示意不准确。"
+        },
+        {
+          "id": "k12-math-cards-quadratic-function",
+          "title": "二次函数",
+          "images": [
+            "k12-math-cards-quadratic-function-p01"
+          ],
+          "grade": "g9"
+        },
+        {
+          "id": "k12-math-cards-parallel-intersecting-lines",
+          "title": "相交线与平行线",
+          "images": [
+            "k12-math-cards-parallel-intersecting-lines-p01"
+          ],
+          "grade": "g7"
+        },
+        {
+          "id": "k12-math-cards-triangle-basics",
+          "title": "三角形基础",
+          "images": [
+            "k12-math-cards-triangle-basics-p01"
+          ]
+        },
+        {
+          "id": "k12-math-cards-triangles",
+          "title": "三角形",
+          "images": [
+            "k12-math-cards-triangles-p01"
+          ],
+          "note": "三角形重心位于中线上，从顶点到重心与从重心到对边中点的距离之比是 2∶1。角平分线通常把对边分成与两邻边成比例的两段，未必等长。图中标字和等长记号有误。"
+        },
+        {
+          "id": "k12-math-cards-congruent-triangles",
+          "title": "全等三角形",
+          "images": [
+            "k12-math-cards-congruent-triangles-p01"
+          ],
+          "grade": "g8"
+        },
+        {
+          "id": "k12-math-cards-pythagorean-theorem",
+          "title": "勾股定理",
+          "images": [
+            "k12-math-cards-pythagorean-theorem-p01"
+          ],
+          "grade": "g8"
+        },
+        {
+          "id": "k12-math-cards-quadrilaterals",
+          "title": "四边形",
+          "images": [
+            "k12-math-cards-quadrilaterals-p01"
+          ]
+        },
+        {
+          "id": "k12-math-cards-polygon-angles",
+          "title": "多边形的内角和与外角和",
+          "images": [
+            "k12-math-cards-polygon-angles-p01"
+          ],
+          "note": "单凭内角和可以求边数。用内角和除以边数求每个内角，须先确定各内角相等。图中个别例题遗漏该条件。"
+        },
+        {
+          "id": "k12-math-cards-geometric-transformations",
+          "title": "图形变换（轴对称、平移、旋转）",
+          "images": [
+            "k12-math-cards-geometric-transformations-p01"
+          ]
+        },
+        {
+          "id": "k12-math-cards-similar-triangles",
+          "title": "相似三角形",
+          "images": [
+            "k12-math-cards-similar-triangles-p01"
+          ],
+          "grade": "g9"
+        },
+        {
+          "id": "k12-math-cards-acute-trig-ratios",
+          "title": "锐角三角函数",
+          "images": [
+            "k12-math-cards-acute-trig-ratios-p01"
+          ],
+          "grade": "g9",
+          "note": "正弦、余弦和正切的边长比例须取自直角三角形。图中第二个例题将未给出直角条件的三角形按直角三角形处理。"
+        },
+        {
+          "id": "k12-math-cards-circles",
+          "title": "圆",
+          "images": [
+            "k12-math-cards-circles-p01"
+          ],
+          "grade": "g9",
+          "note": "直径对应的圆心角是 180°，同弧所对的圆周角是 90°。图中涉及直径的例题角度有误。"
+        },
+        {
+          "id": "k12-math-cards-geometry-review",
+          "title": "几何图形综合",
+          "images": [
+            "k12-math-cards-geometry-review-p01"
+          ]
+        },
+        {
+          "id": "k12-math-cards-statistics",
+          "title": "统计与数据分析",
+          "images": [
+            "k12-math-cards-statistics-p01"
+          ]
+        },
+        {
+          "id": "k12-math-cards-statistics-variant",
+          "title": "统计与数据分析（另一张图解）",
+          "images": [
+            "k12-math-cards-statistics-variant-p01"
+          ]
+        },
+        {
+          "id": "k12-math-cards-intro-probability",
+          "title": "概率初步",
+          "images": [
+            "k12-math-cards-intro-probability-p01"
+          ],
+          "grade": "g9",
+          "note": "扇形转盘的结果只有在各扇形等大时才等可能。图中的实际扇区与标注数量不一致，勿据此计数。"
+        },
+        {
+          "id": "k12-math-cards-statistics-probability",
+          "title": "统计与概率",
+          "images": [
+            "k12-math-cards-statistics-probability-p01"
+          ]
+        },
+        {
+          "id": "k12-math-cards-word-problem-modeling",
+          "title": "应用题建模专题",
+          "images": [
+            "k12-math-cards-word-problem-modeling-p01"
+          ]
+        },
+        {
+          "id": "k12-math-cards-comprehensive-54-63",
+          "title": "数学综合复习（54–63）",
+          "images": [
+            "k12-math-cards-comprehensive-54-63-p01"
+          ]
+        }
+      ],
+      "cover": "k12-math-cards-rational-number-p01"
+    },
+    {
+      "id": "k12-physics-cards",
+      "group": "middle",
+      "title": "初中知识点 · 物理图解",
+      "chapters": [
+        {
+          "id": "k12-physics-cards-measurement-experiments",
+          "title": "测量与实验基础",
+          "images": [
+            "k12-physics-cards-measurement-experiments-p01"
+          ],
+          "grade": "g8",
+          "note": "刻度尺读数应取物体两端对应刻度的差，视线正对刻度。此图的尺刻度示意与例题读数不一致。"
+        },
+        {
+          "id": "k12-physics-cards-mechanical-motion",
+          "title": "机械运动",
+          "images": [
+            "k12-physics-cards-mechanical-motion-p01"
+          ],
+          "grade": "g8"
+        },
+        {
+          "id": "k12-physics-cards-motion-speed",
+          "title": "机械运动与速度",
+          "images": [
+            "k12-physics-cards-motion-speed-p01"
+          ],
+          "grade": "g8",
+          "note": "路程—时间图的斜率表示速度大小；平均速度用总路程除以总时间。图中个别斜率示意和平均速度例题不一致。"
+        },
+        {
+          "id": "k12-physics-cards-density",
+          "title": "密度",
+          "images": [
+            "k12-physics-cards-density-p01"
+          ],
+          "grade": "g8"
+        },
+        {
+          "id": "k12-physics-cards-sound",
+          "title": "声现象",
+          "images": [
+            "k12-physics-cards-sound-p01"
+          ],
+          "grade": "g8"
+        },
+        {
+          "id": "k12-physics-cards-rectilinear-light-mirror",
+          "title": "光的直线传播与平面镜成像",
+          "images": [
+            "k12-physics-cards-rectilinear-light-mirror-p01"
+          ],
+          "grade": "g8"
+        },
+        {
+          "id": "k12-physics-cards-reflection-refraction",
+          "title": "光的反射与折射",
+          "images": [
+            "k12-physics-cards-reflection-refraction-p01"
+          ],
+          "grade": "g8"
+        },
+        {
+          "id": "k12-physics-cards-convex-lenses",
+          "title": "凸透镜成像规律",
+          "images": [
+            "k12-physics-cards-convex-lenses-p01"
+          ],
+          "grade": "g8",
+          "note": "凸透镜成的实像可以在光屏上承接，也可以从合适的位置直接看到。图中关于实像可见性及部分光路的说明有误。"
+        },
+        {
+          "id": "k12-physics-cards-force-analysis",
+          "title": "力与受力分析（重力、弹力、摩擦力）",
+          "images": [
+            "k12-physics-cards-force-analysis-p01"
+          ],
+          "grade": "g8"
+        },
+        {
+          "id": "k12-physics-cards-gravity-elastic-friction",
+          "title": "重力、弹力与摩擦力",
+          "images": [
+            "k12-physics-cards-gravity-elastic-friction-p01"
+          ],
+          "grade": "g8"
+        },
+        {
+          "id": "k12-physics-cards-balanced-forces",
+          "title": "二力平衡",
+          "images": [
+            "k12-physics-cards-balanced-forces-p01"
+          ],
+          "grade": "g8"
+        },
+        {
+          "id": "k12-physics-cards-inertia",
+          "title": "惯性",
+          "images": [
+            "k12-physics-cards-inertia-p01"
+          ],
+          "grade": "g8",
+          "note": "惯性是物体保持原有运动状态的性质。图中的车载水槽与气泡示意存在方向错误。"
+        },
+        {
+          "id": "k12-physics-cards-pressure",
+          "title": "压强",
+          "images": [
+            "k12-physics-cards-pressure-p01"
+          ],
+          "grade": "g8"
+        },
+        {
+          "id": "k12-physics-cards-fluid-atmospheric-pressure",
+          "title": "液体压强与大气压强",
+          "images": [
+            "k12-physics-cards-fluid-atmospheric-pressure-p01"
+          ],
+          "grade": "g8"
+        },
+        {
+          "id": "k12-physics-cards-flow-pressure",
+          "title": "流体压强与流速关系",
+          "images": [
+            "k12-physics-cards-flow-pressure-p01"
+          ],
+          "grade": "g8"
+        },
+        {
+          "id": "k12-physics-cards-buoyancy",
+          "title": "浮力",
+          "images": [
+            "k12-physics-cards-buoyancy-p01"
+          ],
+          "grade": "g8"
+        },
+        {
+          "id": "k12-physics-cards-levers",
+          "title": "杠杆",
+          "images": [
+            "k12-physics-cards-levers-p01"
+          ],
+          "grade": "g8"
+        },
+        {
+          "id": "k12-physics-cards-pulleys",
+          "title": "滑轮与滑轮组",
+          "images": [
+            "k12-physics-cards-pulleys-p01"
+          ],
+          "grade": "g8"
+        },
+        {
+          "id": "k12-physics-cards-work-power-efficiency",
+          "title": "功、功率与机械效率",
+          "images": [
+            "k12-physics-cards-work-power-efficiency-p01"
+          ],
+          "grade": "g8"
+        },
+        {
+          "id": "k12-physics-cards-mechanical-energy",
+          "title": "动能、势能与机械能",
+          "images": [
+            "k12-physics-cards-mechanical-energy-p01"
+          ],
+          "grade": "g8"
+        },
+        {
+          "id": "k12-physics-cards-energy-conservation",
+          "title": "机械能守恒与能量转化",
+          "images": [
+            "k12-physics-cards-energy-conservation-p01"
+          ],
+          "grade": "g8"
+        },
+        {
+          "id": "k12-physics-cards-states-of-matter",
+          "title": "物态变化",
+          "images": [
+            "k12-physics-cards-states-of-matter-p01"
+          ],
+          "grade": "g8"
+        },
+        {
+          "id": "k12-physics-cards-state-change-internal-energy",
+          "title": "物态变化与内能",
+          "images": [
+            "k12-physics-cards-state-change-internal-energy-p01"
+          ]
+        },
+        {
+          "id": "k12-physics-cards-internal-energy-heat-temp",
+          "title": "内能、热量与温度",
+          "images": [
+            "k12-physics-cards-internal-energy-heat-temp-p01"
+          ],
+          "grade": "g9"
+        },
+        {
+          "id": "k12-physics-cards-specific-heat",
+          "title": "比热容与热量计算",
+          "images": [
+            "k12-physics-cards-specific-heat-p01"
+          ],
+          "grade": "g9"
+        },
+        {
+          "id": "k12-physics-cards-heat-engines-efficiency",
+          "title": "热机与效率",
+          "images": [
+            "k12-physics-cards-heat-engines-efficiency-p01"
+          ],
+          "grade": "g9"
+        },
+        {
+          "id": "k12-physics-cards-electric-circuits",
+          "title": "电路基础",
+          "images": [
+            "k12-physics-cards-electric-circuits-p01"
+          ],
+          "grade": "g9"
+        },
+        {
+          "id": "k12-physics-cards-current-voltage-resistance",
+          "title": "电流、电压与电阻",
+          "images": [
+            "k12-physics-cards-current-voltage-resistance-p01"
+          ],
+          "grade": "g9"
+        },
+        {
+          "id": "k12-physics-cards-ohms-law",
+          "title": "欧姆定律与动态电路",
+          "images": [
+            "k12-physics-cards-ohms-law-p01"
+          ],
+          "grade": "g9"
+        },
+        {
+          "id": "k12-physics-cards-electric-work-power",
+          "title": "电功与电功率",
+          "images": [
+            "k12-physics-cards-electric-work-power-p01"
+          ],
+          "grade": "g9"
+        },
+        {
+          "id": "k12-physics-cards-joule-heating",
+          "title": "电热与焦耳定律",
+          "images": [
+            "k12-physics-cards-joule-heating-p01"
+          ],
+          "grade": "g9"
+        },
+        {
+          "id": "k12-physics-cards-household-electrical-safety",
+          "title": "家庭电路与安全用电",
+          "images": [
+            "k12-physics-cards-household-electrical-safety-p01"
+          ],
+          "grade": "g9"
+        },
+        {
+          "id": "k12-physics-cards-magnetism-current",
+          "title": "磁现象与电流的磁效应",
+          "images": [
+            "k12-physics-cards-magnetism-current-p01"
+          ],
+          "grade": "g9"
+        },
+        {
+          "id": "k12-physics-cards-motors-generators-energy",
+          "title": "电动机、发电机与能源",
+          "images": [
+            "k12-physics-cards-motors-generators-energy-p01"
+          ],
+          "grade": "g9"
+        },
+        {
+          "id": "k12-physics-cards-sustainable-energy",
+          "title": "能源与可持续发展",
+          "images": [
+            "k12-physics-cards-sustainable-energy-p01"
+          ],
+          "grade": "g9"
+        }
+      ],
+      "cover": "k12-physics-cards-measurement-experiments-p01"
     }
   ],
   "assets": {
@@ -35863,6 +36450,510 @@
       "width": 896,
       "height": 1200,
       "sha256": "b0a8e7756857b1eb5f31c8b9d4e5a3f0124e4cb7e3686917f51993e70fe14581"
+    },
+    "k12-math-cards-rational-number-p01": {
+      "path": "gallery/k12-math-cards/k12-math-cards-rational-number-p01.jpg",
+      "bytes": 265285,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "bab788e620c7529b599d4bde994ebb0a60323dbbfd88a27e4b0665a1354684af"
+    },
+    "k12-math-cards-rational-number-variant-p01": {
+      "path": "gallery/k12-math-cards/k12-math-cards-rational-number-variant-p01.jpg",
+      "bytes": 286406,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "c6a1f9ff75f5255d32819d0677b359d0d6367f87c99a69cbbaf81779f9205242"
+    },
+    "k12-math-cards-polynomials-factorization-p01": {
+      "path": "gallery/k12-math-cards/k12-math-cards-polynomials-factorization-p01.jpg",
+      "bytes": 300618,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "46c13e6ca59a3c67b7a2532d5e5f53420bb6379376ae3bb2dd0ecdd33bb4b762"
+    },
+    "k12-math-cards-linear-equation-p01": {
+      "path": "gallery/k12-math-cards/k12-math-cards-linear-equation-p01.jpg",
+      "bytes": 308462,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "c0682ed23768ad3b32f3a679b8b2f233712e1acaaf08ce4fab22f369d729e92b"
+    },
+    "k12-math-cards-linear-equation-variant-p01": {
+      "path": "gallery/k12-math-cards/k12-math-cards-linear-equation-variant-p01.jpg",
+      "bytes": 314555,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "89d39d5c29aa9fba83a5c047703b39747afcdfe2e0bd639ac207774fcbfd5ae3"
+    },
+    "k12-math-cards-two-variable-linear-equation-p01": {
+      "path": "gallery/k12-math-cards/k12-math-cards-two-variable-linear-equation-p01.jpg",
+      "bytes": 330157,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "fd392468f3adf320001a0042690c2b80a29f30477ce5d34020998f67746af45d"
+    },
+    "k12-math-cards-linear-system-p01": {
+      "path": "gallery/k12-math-cards/k12-math-cards-linear-system-p01.jpg",
+      "bytes": 286634,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "d1d65abc2f58fa1526c074bc2aa29c25ca13176c4cec68d44f6401c76781bc9a"
+    },
+    "k12-math-cards-linear-system-variant-p01": {
+      "path": "gallery/k12-math-cards/k12-math-cards-linear-system-variant-p01.jpg",
+      "bytes": 294753,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "fdca469a2ada832bc6d2ab405f21d5749241783401fbcc1b082fd03c91aecba0"
+    },
+    "k12-math-cards-inequalities-p01": {
+      "path": "gallery/k12-math-cards/k12-math-cards-inequalities-p01.jpg",
+      "bytes": 309447,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "f457cc81908fa6d605fbb01da015b8e2eaacf1d6599f96a3c4b173ef912e35f5"
+    },
+    "k12-math-cards-real-numbers-radicals-p01": {
+      "path": "gallery/k12-math-cards/k12-math-cards-real-numbers-radicals-p01.jpg",
+      "bytes": 285401,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "c0cfe401601f5e2a070f49c804ec6f604ca79a0d587601ae7a727aed767914b7"
+    },
+    "k12-math-cards-quadratic-radicals-p01": {
+      "path": "gallery/k12-math-cards/k12-math-cards-quadratic-radicals-p01.jpg",
+      "bytes": 303046,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "b3e983fde1d277c4b8cf4f704e82f272117ea2363fc8d9543ce34139bae02c68"
+    },
+    "k12-math-cards-rational-expressions-equations-p01": {
+      "path": "gallery/k12-math-cards/k12-math-cards-rational-expressions-equations-p01.jpg",
+      "bytes": 301633,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "a9300505c62789a965389e6069be4cd95565a89e638ef8a747671bb47101ec8a"
+    },
+    "k12-math-cards-quadratic-equation-p01": {
+      "path": "gallery/k12-math-cards/k12-math-cards-quadratic-equation-p01.jpg",
+      "bytes": 284817,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "40550341ce629f25dcf09e50b9f3ba0dd0bdcc9ec2d9ab902a7d6437ca78d8ba"
+    },
+    "k12-math-cards-coordinate-plane-p01": {
+      "path": "gallery/k12-math-cards/k12-math-cards-coordinate-plane-p01.jpg",
+      "bytes": 265059,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "8f760269c01bcf87a5e443e31da574b683a56dff7ed0a92979a63d7ca879033b"
+    },
+    "k12-math-cards-function-mapping-p01": {
+      "path": "gallery/k12-math-cards/k12-math-cards-function-mapping-p01.jpg",
+      "bytes": 279114,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "d2fd14252e450b6a2fc87bcf202f3ed763c230fe9adbc1fcd7601bf84d6774bc"
+    },
+    "k12-math-cards-linear-relationship-p01": {
+      "path": "gallery/k12-math-cards/k12-math-cards-linear-relationship-p01.jpg",
+      "bytes": 258792,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "b514801e451becd09e22c92b1178b39f4e25923c1100ec94f21016766ca5e110"
+    },
+    "k12-math-cards-linear-function-p01": {
+      "path": "gallery/k12-math-cards/k12-math-cards-linear-function-p01.jpg",
+      "bytes": 282549,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "39fb23700f1c63fcd0b783d5669d24f4dbfa096ca80baafc7b9245b85f0f7348"
+    },
+    "k12-math-cards-inverse-proportion-p01": {
+      "path": "gallery/k12-math-cards/k12-math-cards-inverse-proportion-p01.jpg",
+      "bytes": 266503,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "601fa901aa548a4449f2ce02f4622090482898e8f1f495328a1ce63d3d566c1e"
+    },
+    "k12-math-cards-quadratic-function-p01": {
+      "path": "gallery/k12-math-cards/k12-math-cards-quadratic-function-p01.jpg",
+      "bytes": 264101,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "6e455e715eb41bdcf6d9f02e228f51fed2bd3c2c555b7e25b5c75b3f777debc4"
+    },
+    "k12-math-cards-parallel-intersecting-lines-p01": {
+      "path": "gallery/k12-math-cards/k12-math-cards-parallel-intersecting-lines-p01.jpg",
+      "bytes": 289053,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "e9204713a5e33598564e59b7e3e13ffba7a2c19a55df0ebebfe495b36dd45b94"
+    },
+    "k12-math-cards-triangle-basics-p01": {
+      "path": "gallery/k12-math-cards/k12-math-cards-triangle-basics-p01.jpg",
+      "bytes": 278172,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "6f04b135e3c52a960a3e1daf932c8cc8fcf205e4de2c7ed7a9a21da5dd51ee21"
+    },
+    "k12-math-cards-triangles-p01": {
+      "path": "gallery/k12-math-cards/k12-math-cards-triangles-p01.jpg",
+      "bytes": 294957,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "91e0f83499c33fb6bc170c202295e6b262f23eb051ac3d8a12c40d1c2f1cb45e"
+    },
+    "k12-math-cards-congruent-triangles-p01": {
+      "path": "gallery/k12-math-cards/k12-math-cards-congruent-triangles-p01.jpg",
+      "bytes": 294961,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "90ce1707b1ed228c8ade156a40940d96dcfd8e26f5ba34ba782d041101de3ef2"
+    },
+    "k12-math-cards-pythagorean-theorem-p01": {
+      "path": "gallery/k12-math-cards/k12-math-cards-pythagorean-theorem-p01.jpg",
+      "bytes": 274601,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "c676fbd1d4ee11f1bd88e83f816b09e9fc7454a7460b9914ce3aaf989e2000dc"
+    },
+    "k12-math-cards-quadrilaterals-p01": {
+      "path": "gallery/k12-math-cards/k12-math-cards-quadrilaterals-p01.jpg",
+      "bytes": 315797,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "359505089e9f7428e8fb379217aea6fd10e943aeacc9e66d15390ef0d1d08fa3"
+    },
+    "k12-math-cards-polygon-angles-p01": {
+      "path": "gallery/k12-math-cards/k12-math-cards-polygon-angles-p01.jpg",
+      "bytes": 289759,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "2996ca34021286ffecdd4fcc7a2de2a2cc462dc902697a2bcdb0778b951938b8"
+    },
+    "k12-math-cards-geometric-transformations-p01": {
+      "path": "gallery/k12-math-cards/k12-math-cards-geometric-transformations-p01.jpg",
+      "bytes": 310737,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "d474275e70ee60ea69a4676e2414e9bf6238e8a6b1dd3dee3cbf987163d5a4fc"
+    },
+    "k12-math-cards-similar-triangles-p01": {
+      "path": "gallery/k12-math-cards/k12-math-cards-similar-triangles-p01.jpg",
+      "bytes": 301115,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "abde19ab8dc9d63fdaa019692e8c3d64614394e4e6f23b84c6b09673e84d7ab1"
+    },
+    "k12-math-cards-acute-trig-ratios-p01": {
+      "path": "gallery/k12-math-cards/k12-math-cards-acute-trig-ratios-p01.jpg",
+      "bytes": 302565,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "2a7a4bdfbe5e9ba057246ee31bb23963098074c1d1d8038a4e3c963dae442bcb"
+    },
+    "k12-math-cards-circles-p01": {
+      "path": "gallery/k12-math-cards/k12-math-cards-circles-p01.jpg",
+      "bytes": 298381,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "391cc5de9bf80e0c64992139f2b396ed5884173e42ce954c873dee8b85efb868"
+    },
+    "k12-math-cards-geometry-review-p01": {
+      "path": "gallery/k12-math-cards/k12-math-cards-geometry-review-p01.jpg",
+      "bytes": 124430,
+      "width": 1000,
+      "height": 667,
+      "sha256": "829329cb96a034274860eb55c462aa59c328874b22f5ae1cce55cbc9e2d2eda5"
+    },
+    "k12-math-cards-statistics-p01": {
+      "path": "gallery/k12-math-cards/k12-math-cards-statistics-p01.jpg",
+      "bytes": 304276,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "976f30049f457702c1502cbe6423768b1ec34a800cf94cedffa8d4976c3dfd40"
+    },
+    "k12-math-cards-statistics-variant-p01": {
+      "path": "gallery/k12-math-cards/k12-math-cards-statistics-variant-p01.jpg",
+      "bytes": 207793,
+      "width": 967,
+      "height": 1450,
+      "sha256": "4c38b69081aba36ab3a47ee8bf87a3fb37d1253ca3c5933f458fbae38038fa48"
+    },
+    "k12-math-cards-intro-probability-p01": {
+      "path": "gallery/k12-math-cards/k12-math-cards-intro-probability-p01.jpg",
+      "bytes": 320406,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "dbac0085b5b90a497802a29b3126cba5d411df77d3c42a8c5443bcca6b4dcb51"
+    },
+    "k12-math-cards-statistics-probability-p01": {
+      "path": "gallery/k12-math-cards/k12-math-cards-statistics-probability-p01.jpg",
+      "bytes": 294723,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "8f132d61e0e0e2d0befb437aeb8eaf87e6fc9fdc95f9556dd8a5118f046dcbb4"
+    },
+    "k12-math-cards-word-problem-modeling-p01": {
+      "path": "gallery/k12-math-cards/k12-math-cards-word-problem-modeling-p01.jpg",
+      "bytes": 323607,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "fc630a2dd37960e644f9df01ba04802198bc5de459dd3bbcf619cb93e5fc1076"
+    },
+    "k12-math-cards-comprehensive-54-63-p01": {
+      "path": "gallery/k12-math-cards/k12-math-cards-comprehensive-54-63-p01.jpg",
+      "bytes": 137263,
+      "width": 1000,
+      "height": 667,
+      "sha256": "240bb9de5da23f5db149ace0ee2e0dedaf4befdf1c42d8361abbe165cb333437"
+    },
+    "k12-physics-cards-measurement-experiments-p01": {
+      "path": "gallery/k12-physics-cards/k12-physics-cards-measurement-experiments-p01.jpg",
+      "bytes": 312438,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "55afdb021a669b17c8717dcceb819ba55257ecb35eea7ed12afb43e6e380c123"
+    },
+    "k12-physics-cards-mechanical-motion-p01": {
+      "path": "gallery/k12-physics-cards/k12-physics-cards-mechanical-motion-p01.jpg",
+      "bytes": 290567,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "0d3c31e76df1fdda4997f0843f1500e0b96a3c70f38426e0b16d227f926b3f26"
+    },
+    "k12-physics-cards-motion-speed-p01": {
+      "path": "gallery/k12-physics-cards/k12-physics-cards-motion-speed-p01.jpg",
+      "bytes": 304598,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "d0d471f23b288034df254d0050d6aef3c805184b242795fe2cadc7b95e12f96e"
+    },
+    "k12-physics-cards-density-p01": {
+      "path": "gallery/k12-physics-cards/k12-physics-cards-density-p01.jpg",
+      "bytes": 251833,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "ae65b56e60b648ad44deba6cba43b195e59a4f5d3cbddf23921419833fe26d5d"
+    },
+    "k12-physics-cards-sound-p01": {
+      "path": "gallery/k12-physics-cards/k12-physics-cards-sound-p01.jpg",
+      "bytes": 315664,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "77dc54c7fd97f781fb9a9d2eeb0fda3d58e24e3e0fc9284bdd7628d8ae6c7017"
+    },
+    "k12-physics-cards-rectilinear-light-mirror-p01": {
+      "path": "gallery/k12-physics-cards/k12-physics-cards-rectilinear-light-mirror-p01.jpg",
+      "bytes": 290400,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "aeb6ab9e7dcbf694c3825a9d2d898a022058255a97281456dbb3040aa136f676"
+    },
+    "k12-physics-cards-reflection-refraction-p01": {
+      "path": "gallery/k12-physics-cards/k12-physics-cards-reflection-refraction-p01.jpg",
+      "bytes": 286176,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "29334007f84b519125032a90e01cd2a6c06b32df6bbc091b7ba9f5e7dab101a7"
+    },
+    "k12-physics-cards-convex-lenses-p01": {
+      "path": "gallery/k12-physics-cards/k12-physics-cards-convex-lenses-p01.jpg",
+      "bytes": 306162,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "3a1a5ad85d93bc22d00abcb82b0cc475f80628913a1feaf7edf7695e7388a4d0"
+    },
+    "k12-physics-cards-force-analysis-p01": {
+      "path": "gallery/k12-physics-cards/k12-physics-cards-force-analysis-p01.jpg",
+      "bytes": 292329,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "ff775f3c82474cf2698fff66e9887deefe0c3bd132da806d73a4ea6e93d0e250"
+    },
+    "k12-physics-cards-gravity-elastic-friction-p01": {
+      "path": "gallery/k12-physics-cards/k12-physics-cards-gravity-elastic-friction-p01.jpg",
+      "bytes": 274656,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "4581094cc89335af8c1fec78b97cf8dd8898be35e0b8b7f7250fb2f8d94ab5b8"
+    },
+    "k12-physics-cards-balanced-forces-p01": {
+      "path": "gallery/k12-physics-cards/k12-physics-cards-balanced-forces-p01.jpg",
+      "bytes": 304432,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "70551f3621e3ab7324d1573170d2c2c11f14a0166ad9f483ae0d09780ca797ac"
+    },
+    "k12-physics-cards-inertia-p01": {
+      "path": "gallery/k12-physics-cards/k12-physics-cards-inertia-p01.jpg",
+      "bytes": 334637,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "67871deb5369cac50d5610f3bbe5314cd5bbb6f1a3479d21bb50763c21b52542"
+    },
+    "k12-physics-cards-pressure-p01": {
+      "path": "gallery/k12-physics-cards/k12-physics-cards-pressure-p01.jpg",
+      "bytes": 314624,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "0e06a3ae828f7908eff18c76246c6fd998a6491a06ba3e77c700c24a423210f2"
+    },
+    "k12-physics-cards-fluid-atmospheric-pressure-p01": {
+      "path": "gallery/k12-physics-cards/k12-physics-cards-fluid-atmospheric-pressure-p01.jpg",
+      "bytes": 308016,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "8a89d879ee7dbcc759491db027bb26926197b20ea1e9e28513e3f1109d5c1f65"
+    },
+    "k12-physics-cards-flow-pressure-p01": {
+      "path": "gallery/k12-physics-cards/k12-physics-cards-flow-pressure-p01.jpg",
+      "bytes": 354065,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "32af607a27b1ef8586c9081abe2a0cbc53bd0f9d29e1ccdf38116a70d54604ec"
+    },
+    "k12-physics-cards-buoyancy-p01": {
+      "path": "gallery/k12-physics-cards/k12-physics-cards-buoyancy-p01.jpg",
+      "bytes": 265333,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "b13fede4beb639f157b8940ac4293d8d7c5362a146677a6541f6a502ceb04d24"
+    },
+    "k12-physics-cards-levers-p01": {
+      "path": "gallery/k12-physics-cards/k12-physics-cards-levers-p01.jpg",
+      "bytes": 269058,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "f58ecfb25317a1bd98e7e0c0b8371827cf1cb5bee17d7bbdee65be9a9130e856"
+    },
+    "k12-physics-cards-pulleys-p01": {
+      "path": "gallery/k12-physics-cards/k12-physics-cards-pulleys-p01.jpg",
+      "bytes": 321813,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "40c92895cc01c74ae4c49fd3790b501e3f880540fe84911e85c2f91dbb5bf57a"
+    },
+    "k12-physics-cards-work-power-efficiency-p01": {
+      "path": "gallery/k12-physics-cards/k12-physics-cards-work-power-efficiency-p01.jpg",
+      "bytes": 281712,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "13537dcbbe0b89a5d9e2d3d4ab1fd7fb2139b2ebd28de7ba0335160d87fb7dd3"
+    },
+    "k12-physics-cards-mechanical-energy-p01": {
+      "path": "gallery/k12-physics-cards/k12-physics-cards-mechanical-energy-p01.jpg",
+      "bytes": 103842,
+      "width": 1000,
+      "height": 667,
+      "sha256": "56f5cc04e9092c4bd0d927e9eda42f5320f96aaa0a02a8cb66403b8a824d2966"
+    },
+    "k12-physics-cards-energy-conservation-p01": {
+      "path": "gallery/k12-physics-cards/k12-physics-cards-energy-conservation-p01.jpg",
+      "bytes": 314075,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "d3e0180c3d906e7516c1e8b2f9f62c7d8270035c6e27239da2f7f6722fe60519"
+    },
+    "k12-physics-cards-states-of-matter-p01": {
+      "path": "gallery/k12-physics-cards/k12-physics-cards-states-of-matter-p01.jpg",
+      "bytes": 276892,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "e5663fc8fd41196c96ea4dafad43312c8849c00fc88ee502a0ae548d51866249"
+    },
+    "k12-physics-cards-state-change-internal-energy-p01": {
+      "path": "gallery/k12-physics-cards/k12-physics-cards-state-change-internal-energy-p01.jpg",
+      "bytes": 302461,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "4f795e0b6fd7c3439aca3c36858218c1c392e8d7d8e9b82447f5bcf24613a89b"
+    },
+    "k12-physics-cards-internal-energy-heat-temp-p01": {
+      "path": "gallery/k12-physics-cards/k12-physics-cards-internal-energy-heat-temp-p01.jpg",
+      "bytes": 334326,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "d92e6fb8d6db7399b80ecd000411773160f311880913c0baefa7a915218b627a"
+    },
+    "k12-physics-cards-specific-heat-p01": {
+      "path": "gallery/k12-physics-cards/k12-physics-cards-specific-heat-p01.jpg",
+      "bytes": 316139,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "4e1361cd0972843ed9e6dfc70143cd8adb36e40cca6e0e8a6499c60d874cd9b6"
+    },
+    "k12-physics-cards-heat-engines-efficiency-p01": {
+      "path": "gallery/k12-physics-cards/k12-physics-cards-heat-engines-efficiency-p01.jpg",
+      "bytes": 320272,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "038abdb96d22b6124cb18e07c6254355b767ac9b58a59e06ca9ad79524642ad7"
+    },
+    "k12-physics-cards-electric-circuits-p01": {
+      "path": "gallery/k12-physics-cards/k12-physics-cards-electric-circuits-p01.jpg",
+      "bytes": 294264,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "c09ff1b7dbd920348b67849802f90ea5fd4b64c898d06d0b671eccc3e08d9f6e"
+    },
+    "k12-physics-cards-current-voltage-resistance-p01": {
+      "path": "gallery/k12-physics-cards/k12-physics-cards-current-voltage-resistance-p01.jpg",
+      "bytes": 275833,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "c5dadf30e4b3485266420bcfc464208ae6cb4efdd70442f5ad728f84d50a3931"
+    },
+    "k12-physics-cards-ohms-law-p01": {
+      "path": "gallery/k12-physics-cards/k12-physics-cards-ohms-law-p01.jpg",
+      "bytes": 337307,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "b8530816f6fc1668101b51303fe42501e9b6d52aa0c057fa188cf9c41402beac"
+    },
+    "k12-physics-cards-electric-work-power-p01": {
+      "path": "gallery/k12-physics-cards/k12-physics-cards-electric-work-power-p01.jpg",
+      "bytes": 302821,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "de61c4d8494dc417dbcc199c149c6b5989f1361c6605a0875b77f6dfaf87b97f"
+    },
+    "k12-physics-cards-joule-heating-p01": {
+      "path": "gallery/k12-physics-cards/k12-physics-cards-joule-heating-p01.jpg",
+      "bytes": 300891,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "f6c8b741a7b932cfcedf93c0e12b3f7bc4485ca56b82b491e81792da0cd86457"
+    },
+    "k12-physics-cards-household-electrical-safety-p01": {
+      "path": "gallery/k12-physics-cards/k12-physics-cards-household-electrical-safety-p01.jpg",
+      "bytes": 275808,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "3a16b05bd86cadc0f4ee0c9da4cdffcfa52d43ce025c8b130023bfe3b958724f"
+    },
+    "k12-physics-cards-magnetism-current-p01": {
+      "path": "gallery/k12-physics-cards/k12-physics-cards-magnetism-current-p01.jpg",
+      "bytes": 299010,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "bd6153623457fffdaec1681bf08f32d86cc5b74838c6f0100a988ad89fe20ae9"
+    },
+    "k12-physics-cards-motors-generators-energy-p01": {
+      "path": "gallery/k12-physics-cards/k12-physics-cards-motors-generators-energy-p01.jpg",
+      "bytes": 320302,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "444f5e1f3784babff769d6c106ceebb7d6c0e2b846964c7c9ab5bae428365bb6"
+    },
+    "k12-physics-cards-sustainable-energy-p01": {
+      "path": "gallery/k12-physics-cards/k12-physics-cards-sustainable-energy-p01.jpg",
+      "bytes": 343322,
+      "width": 1000,
+      "height": 1413,
+      "sha256": "a98ee7d0fd4967b9b7af283278fcffab1e728facf2b12214119e90695465f5cf"
     }
   }
 }

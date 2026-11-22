@@ -6,4 +6,4 @@
 
 ## Complete learning gallery
 
-The complete reading gallery contains 3916 JPEGs. See [gallery-index.json](gallery-index.json) for chapter order, paths and checksums. The earlier pilot URLs remain available.
+The complete reading gallery contains 3988 JPEGs. See [gallery-index.json](gallery-index.json) for chapter order, paths and checksums. The earlier pilot URLs remain available.
